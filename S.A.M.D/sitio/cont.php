@@ -189,7 +189,7 @@ if(isset($_POST["existe"])){
     <center>
         <div class="supp">
     <div class="col-md-7 col-lg-8">
-    <form action="..\PHP\mens.php" method="post">
+    <form action="..\sitio\mens.php" method="post">
           <div class="row g-3">
             <div class="col-sm-6">
               <label for="nombre" class="form-label">nombre</label>
