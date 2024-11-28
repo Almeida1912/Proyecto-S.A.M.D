@@ -198,13 +198,13 @@ $resultado=$con->query($s);
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..\S.A.M.D\img\fu7.jpeg" class="bd-placeholder-img"  width="100%" height="100%"  aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/>
+      <img src="..S.A.M.D/img/futbo7.jpeg" class="bd-placeholder-img"  width="100%" height="100%"  aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/>
       <div class="container">
         
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..\S.A.M.D\img\volei.jpeg" class="bd-placeholder-img"  width="100%" height="100%"  aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/>
+      <img src="..S.A.M.D/img/voley.jpeg" class="bd-placeholder-img"  width="100%" height="100%"  aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/>
       <div class="container">
        
       </div>
